@@ -5,3 +5,6 @@ INSERT INTO employees VALUES
 -- 10005 (1955-01-21)와 같은 생일 가진 직원 추가
 INSERT INTO employees VALUES
 (120002, '1955-01-21', 'John', 'Duplicate', 'M', '1998-07-20');
+
+INSERT INTO employees VALUES
+(120003, '1955-01-21', 'Fake', 'Duplicate', 'M', '1998-07-20');
